@@ -1,0 +1,12 @@
+﻿{
+  "name": "dooficoin",
+  "description": "Contrato inteligente BEP20 para a moeda DOOFICOIN (DOOFI)",
+  "version": "0.8.20",
+  "compiler": {
+    "version": "0.8.20",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  }
+}
